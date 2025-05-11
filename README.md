@@ -1,8 +1,6 @@
-<h1 align="center">Привет, я Иван 👋</h1>
+<h1 align="center">Привет, я Глеб 👋</h1>
 
-- 🔭 Сейчас работаю над проектом [MyProject](https://github.com/yourrepo)
-- 🌱 Изучаю **React, Django и нейросети**
-- 💬 Спроси меня о **Python, AI и backend-разработке**
+
 - 📫 Как связаться: [Telegram](https://t.me/yourhandle) | [Email](mailto:youremail@example.com)
 
 ---

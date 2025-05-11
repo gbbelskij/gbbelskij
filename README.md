@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Глеб 👋</h1>
 
 
-- 📫 Как связаться: [Telegram](https://t.me/yourhandle) | [Email](mailto:youremail@example.com)
+- 📫 Как связаться: [Telegram](https://t.me/gb_inc) | [Email](mailto:bielsky.gleb@mail.ru)
 
 ---
 

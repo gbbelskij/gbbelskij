@@ -15,5 +15,5 @@
 
 ### 📊 Статистика GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=github_dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gbbelskij&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbbelskij&layout=compact&theme=github_dark)

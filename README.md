@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Привет, я Иван 👋</h1>
 
-<!--
-**gbbelskij/gbbelskij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Сейчас работаю над проектом [MyProject](https://github.com/yourrepo)
+- 🌱 Изучаю **React, Django и нейросети**
+- 💬 Спроси меня о **Python, AI и backend-разработке**
+- 📫 Как связаться: [Telegram](https://t.me/yourhandle) | [Email](mailto:youremail@example.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Стек технологий
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+
+---
+
+### 📊 Статистика GitHub
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_логин&layout=compact&theme=github_dark)

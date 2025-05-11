@@ -1,19 +1,64 @@
-<h1 align="center">Привет, я Глеб 👋</h1>
+# 👋 Привет! Я Глеб — Python Backend Developer
 
-
-- 📫 Как связаться: [Telegram](https://t.me/gb_inc) | [Email](mailto:bielsky.gleb@mail.ru)
-
----
-
-### 🛠️ Стек технологий
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+🎯 Разрабатываю веб-приложения, боты и автоматизацию на Python.  
+⚡ Увлекаюсь созданием API, рекомендательных систем и архитектурой сервисов.  
+🚀 Сейчас руковожу командным проектом с 10 участниками как Team Lead и Backend-разработчик.
 
 ---
 
-### 📊 Статистика GitHub
+### 💻 Технологии, которые я использую:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gbbelskij&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbbelskij&layout=compact&theme=github_dark)
+#### 🐍 Backend:
+- Python, Flask, FastAPI, Django
+- Flask-RESTX (Swagger-документация), REST API, JWT
+- SQLAlchemy, psycopg2
+- PostgreSQL, SQLite, Redis
+
+#### 🛠️ Архитектура и DevOps:
+- Docker, Docker Compose
+- Git, GitHub
+- Linux (Ubuntu), Nginx
+- CI/CD: GitHub Actions *(в процессе изучения)*
+
+#### 🧠 Принципы:
+- ООП, SOLID
+- PEP8, RESTful архитектура
+- Асинхронность: asyncio, httpx, aiohttp *(базовый уровень)*
+
+#### 🧪 Тестирование:
+- Pytest, unittest, Postman / Swagger UI
+
+#### 🧰 Инструменты и библиотеки:
+- Pydantic, dotenv, passlib
+- Jinja2, Celery *(в процессе изучения)*
+
+#### 🤖 Боты и UI:
+- Aiogram (Telegram-боты)
+- PyQt (десктопные приложения)
+
+---
+
+### 🌟 О текущем проекте
+
+Веду разработку веб-приложения с рекомендательной системой курсов для переобучения сотрудников IT-компаний.  
+- Backend на Flask-RESTX  
+- Генерация Swagger для API  
+- Аутентификация через JWT  
+- PostgreSQL + Redis  
+- Контейнеризация через Docker  
+- Работа в команде из 10 человек: мой вклад — техническое лидерство и архитектура
+
+---
+
+### 📫 Как связаться со мной:
+
+- 📧 Email: bielsky.gleb@mail.ru 
+- 🌐 Telegram: [@твоя_ссылка](https://t.me/gb_inc)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact)
+

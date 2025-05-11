@@ -1,64 +1,75 @@
-# 👋 Привет! Я Глеб — Python Backend Developer
+<h1 align="center">👋 Привет! Я Глеб — Python Backend Developer</h1>
 
-🎯 Разрабатываю веб-приложения, боты и автоматизацию на Python.  
-⚡ Увлекаюсь созданием API, рекомендательных систем и архитектурой сервисов.  
-🚀 Сейчас руковожу командным проектом с 10 участниками как Team Lead и Backend-разработчик.
-
----
-
-### 💻 Технологии, которые я использую:
-
-#### 🐍 Backend:
-- Python, Flask, FastAPI, Django
-- Flask-RESTX (Swagger-документация), REST API, JWT
-- SQLAlchemy, psycopg2
-- PostgreSQL, SQLite, Redis
-
-#### 🛠️ Архитектура и DevOps:
-- Docker, Docker Compose
-- Git, GitHub
-- Linux (Ubuntu), Nginx
-- CI/CD: GitHub Actions *(в процессе изучения)*
-
-#### 🧠 Принципы:
-- ООП, SOLID
-- PEP8, RESTful архитектура
-- Асинхронность: asyncio, httpx, aiohttp *(базовый уровень)*
-
-#### 🧪 Тестирование:
-- Pytest, unittest, Postman / Swagger UI
-
-#### 🧰 Инструменты и библиотеки:
-- Pydantic, dotenv, passlib
-- Jinja2, Celery *(в процессе изучения)*
-
-#### 🤖 Боты и UI:
-- Aiogram (Telegram-боты)
-- PyQt (десктопные приложения)
+<p align="center">
+  Разрабатываю веб-приложения, ботов и рекомендательные системы на Python.<br>
+  Сейчас TeamLead и Backend-разработчик в командном проекте на 10 человек.
+</p>
 
 ---
 
-### 🌟 О текущем проекте
+### 💻 Мой стек
 
-Веду разработку веб-приложения с рекомендательной системой курсов для переобучения сотрудников IT-компаний.  
-- Backend на Flask-RESTX  
-- Генерация Swagger для API  
-- Аутентификация через JWT  
-- PostgreSQL + Redis  
-- Контейнеризация через Docker  
-- Работа в команде из 10 человек: мой вклад — техническое лидерство и архитектура
+<table>
+  <tr>
+    <td><b>🐍 Backend</b></td>
+    <td><b>🛠️ DevOps</b></td>
+  </tr>
+  <tr>
+    <td>
+      Python, Flask, FastAPI, Django<br>
+      Flask-RESTX, REST API, JWT<br>
+      SQLAlchemy, psycopg2<br>
+      PostgreSQL, Redis, SQLite
+    </td>
+    <td>
+      Docker, Docker Compose<br>
+      Git, GitHub, Nginx, Linux<br>
+      GitHub Actions (в процессе)<br>
+      CI/CD, Swagger
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧠 Принципы</b></td>
+    <td><b>🧪 Тестирование и другое</b></td>
+  </tr>
+  <tr>
+    <td>
+      ООП, SOLID, PEP8<br>
+      RESTful API, async/await<br>
+      httpx, aiohttp (базово)
+    </td>
+    <td>
+      Pytest, unittest, Postman<br>
+      Pydantic, dotenv, passlib<br>
+      Aiogram, PyQt, Jinja2
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Как связаться со мной:
+### 🌟 Текущий проект
 
-- 📧 Email: bielsky.gleb@mail.ru 
-- 🌐 Telegram: [@твоя_ссылка](https://t.me/gb_inc)
+Создаем рекомендательную платформу курсов переобучения IT-сотрудников:
+- Backend: Flask-RESTX + Swagger
+- Аутентификация: JWT
+- Хранилище: PostgreSQL + Redis
+- Контейнеризация: Docker
+- Моя роль: лидер проекта, архитектор и основной backend-разработчик
 
 ---
 
+### 📫 Контакты
+
+- 📧 bielsky.gleb@mail.ru  
+- 📨 [@gb_inc](https://t.me/gb_inc)
+
+<!-- Опционально -->
+<!--
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbbelskij&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbbelskij&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gbbelskij&show_icons=true&theme=default" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbbelskij&layout=compact" width="48%">
+</p>
+-->

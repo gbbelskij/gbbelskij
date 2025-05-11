@@ -59,6 +59,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbbelskij&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbbelskij&layout=compact)
 

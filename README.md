@@ -1,8 +1,7 @@
 <h1 align="center">👋 Привет! Я Глеб — Python Backend Developer</h1>
 
 <p align="center">
-  Разрабатываю веб-приложения, ботов и рекомендательные системы на Python.<br>
-  Сейчас TeamLead и Backend-разработчик в командном проекте на 10 человек.
+  Разрабатываю веб-приложения, ботов на Python.<br>
 </p>
 
 ---
@@ -64,12 +63,10 @@
 - 📧 bielsky.gleb@mail.ru  
 - 📨 [@gb_inc](https://t.me/gb_inc)
 
-<!-- Опционально -->
-<!--
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gbbelskij&show_icons=true&theme=default" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbbelskij&layout=compact" width="48%">
 </p>
--->
+

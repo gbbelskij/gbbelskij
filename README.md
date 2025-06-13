@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет! Я Глеб — Python Backend Developer</h1>
+<h1 align="center">👋 Привет! Я Глеб — Backend Developer</h1>
 
 <p align="center">
   Разрабатываю веб-приложения, ботов на Python.<br>
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>
-      Python, Flask, FastAPI, Django<br>
+      Python, C/C++, Flask, FastAPI, Django<br>
       Flask-RESTX, REST API, JWT<br>
       SQLAlchemy, psycopg2<br>
       PostgreSQL, Redis, SQLite
@@ -47,7 +47,7 @@
 
 ---
 
-### 🌟 Текущий проект
+### 🌟 Последний проект
 
 Создаем рекомендательную платформу курсов переобучения IT-сотрудников:
 - Backend: Flask-RESTX + Swagger

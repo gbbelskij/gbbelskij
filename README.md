@@ -61,8 +61,8 @@
 
 ### 📫 Контакты
 
-- 📧 bielsky.gleb@mail.ru  
-- 📨 [@gb_inc](https://t.me/gb_inc)
+- telegram: [@gb_inc](https://t.me/gb_inc)
+- mail: bielsky.gleb@mail.ru  
 
 ### 📊 GitHub Stats
 

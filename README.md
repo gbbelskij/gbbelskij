@@ -11,37 +11,37 @@
 
 <table>
   <tr>
-    <td><b>🐍 Backend</b></td>
-    <td><b>🛠️ DevOps</b></td>
+    <td><b>Backend</b></td>
+    <td><b>DevOps</b></td>
   </tr>
   <tr>
     <td>
-      Python, C/C++, Flask, FastAPI, Django<br>
-      Flask-RESTX, REST API, JWT<br>
-      SQLAlchemy, psycopg2<br>
-      PostgreSQL, Redis, SQLite
+      Golang, Gin, REST, GRPC<br>
+      JWT, PostgreSQL, Redis<br>
+      Kafka, RabbitMQ, Userver<br>
+      C/C++, python, Flask<br>
     </td>
     <td>
-      Docker, Docker Compose<br>
-      Git, GitHub, Nginx, Linux<br>
-      GitHub Actions (в процессе)<br>
+      Docker, Git<br>
+      Nginx, Linux<br>
+      GitHub Actions<br>
       CI/CD, Swagger
     </td>
   </tr>
   <tr>
-    <td><b>🧠 Принципы</b></td>
-    <td><b>🧪 Тестирование и другое</b></td>
+    <td><b>Принципы</b></td>
+    <td><b>Тестирование и другое</b></td>
   </tr>
   <tr>
     <td>
-      ООП, SOLID, PEP8<br>
-      RESTful API, async/await<br>
-      httpx, aiohttp (базово)
+      ООП, SOLID, Интерфейсы<br>
+      RESTful API, CQRS, GRASP<br> 
+      DRY, Transaction isolation
     </td>
     <td>
-      Pytest, unittest, Postman<br>
-      Pydantic, dotenv, passlib<br>
-      Aiogram, PyQt, Jinja2
+      Unit, Functional, Integration tests<br>
+      Sharding, db Indexing, A/B testing<br>
+      Grafana, Monitoring, Reverse engineering
     </td>
   </tr>
 </table>

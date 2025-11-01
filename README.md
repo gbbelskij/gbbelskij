@@ -1,8 +1,9 @@
 <h1 align="center">Я Глеб — Backend Developer</h1>
 
 <p align="center">
-  Разрабатываю веб-приложения, API на <b>Go</b>, <i>Python</i>, <i>C++</i>.<br>
+  Разрабатываю веб-приложения, API на <b><span style="font-size: 1.5em;">GO</span></b>, <i>Python</i>, <i>C++</i>.<br>
 </p>
+
 
 ---
 
